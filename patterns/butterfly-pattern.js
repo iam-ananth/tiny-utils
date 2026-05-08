@@ -1,4 +1,4 @@
-/* Initial Version made by Myself */
+/* Initial Version */
 let n = 10;
 let output = "";
 for(let i = 1; i < n; i++){
@@ -24,7 +24,7 @@ for(let i = 1; i < n; i++){
 }
 console.log(output);
 
-/* Optimized Version with AI */
+/* Optimized Version */
 let n1 = 10;
 let output1 = '';
 for(let i=1; i < n1;i++){
