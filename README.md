@@ -55,7 +55,7 @@ pa******
 ---
 
 ## 🛠 Tech
-- JavaScript (Node.js)
+- JavaScript ( ES6+ )
 
 ---
 
